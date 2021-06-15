@@ -3,4 +3,4 @@ Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Jav
 
 ## 🚀 Let's code! 🚀
 
-![Space Shooter]()
+![Space Shooter](https://github.com/Juliano-OLiveira/Space-Shooter/blob/master/space-shooter/img/shooter.gif)
